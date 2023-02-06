@@ -28,3 +28,6 @@ https://github.com/Dowell-Lab/Bidirectional-Flow
 
 https://github.com/Dowell-Lab/DBNascent-build
 
+# Analsysis Folder 
+
+Contains notebooks used to generate figures and intermediate files

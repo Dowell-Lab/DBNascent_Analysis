@@ -78,7 +78,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -130,3 +130,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Venn Diagram log files 
+VennDiagram*.log 
+
+# folder with gene and bidirectional counts as folder is large
+final_counts/
