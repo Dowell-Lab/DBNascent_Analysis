@@ -28,6 +28,10 @@ https://github.com/Dowell-Lab/Bidirectional-Flow
 
 https://github.com/Dowell-Lab/DBNascent-build
 
+## Identifying gene & bidirectional pairs
+
+https://github.com/Dowell-Lab/bidir_gene_pairs
+
 # Analsysis Folder 
 
 Contains notebooks used to generate figures and intermediate files
