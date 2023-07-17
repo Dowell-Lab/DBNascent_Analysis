@@ -1,5 +1,5 @@
 # DBNascent_Analysis
-Contains meta analyses performed using data in `DBNascent`
+Contains meta-analyses performed using data in `DBNascent`. 
 
 # Linked Repositories
 
@@ -32,6 +32,6 @@ https://github.com/Dowell-Lab/DBNascent-build
 
 https://github.com/Dowell-Lab/bidir_gene_pairs
 
-# Analsysis Folder 
+# Analysis Folder 
 
 Contains notebooks used to generate figures and intermediate files
