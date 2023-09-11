@@ -1,9 +1,14 @@
 # DBNascent_Analysis
-Contains meta-analyses performed using data in `DBNascent`. 
+This repository contains notebooks used to generate figures and intermediate files for the project. These are meta-analyses performed using data in `DBNascent`. 
 
 # Linked Repositories
+## `DBNascent-build`
 
-## Processing
+Construction of the MySQL database `DBNascent` 
+
+https://github.com/Dowell-Lab/DBNascent-build
+
+## Pre-processing
 ### `Nascent-Flow`
 
 The nextflow pipeline used to preprocess raw files 
@@ -24,14 +29,14 @@ A nextflow pipeline for bidirectional transcript detection
 
 https://github.com/Dowell-Lab/Bidirectional-Flow
 
-## Construction of `DBNascent` 
+## Merge bidirectional calls to create consensus annotations.
 
-https://github.com/Dowell-Lab/DBNascent-build
+Using muMerge and bedtools utilities, bidirectional transcript annotations across all human and mouse samples were merged.
+
+https://github.com/Dowell-Lab/bidirectionals_merged 
 
 ## Identifying gene & bidirectional pairs
 
+Correlation based method to link bidirectional transcripts to putative targets.
+
 https://github.com/Dowell-Lab/bidir_gene_pairs
-
-# Analysis Folder 
-
-Contains notebooks used to generate figures and intermediate files
