@@ -2,9 +2,9 @@
 This repository contains notebooks used to generate figures and intermediate files for the project. These are meta-analyses performed using data in `DBNascent`. 
 
 # Linked Repositories
-## `DBNascent-build`
+## Construction of the MySQL database `DBNascent` 
 
-Construction of the MySQL database `DBNascent` 
+Repository for "building, updating, and querying DBNascent".
 
 https://github.com/Dowell-Lab/DBNascent-build
 
