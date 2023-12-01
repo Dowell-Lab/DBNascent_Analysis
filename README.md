@@ -1,6 +1,20 @@
 # DBNascent_Analysis
 This repository contains notebooks used to generate figures and intermediate files for the project. These are meta-analyses performed using data in `DBNascent`. 
 
+## Structure of repository
+
+- **analysis**: Jupyter notebooks used for analysis and figure generation
+
+- **data**: Smaller data used for analysis (See Zenodo for larger datasets 10.5281/zenodo.10223322)
+
+- **scripts**: Scripts used for analysis
+
+  - `GENIE3_bidir_gene_pairs.R`: SPECs scores python script
+
+  - `GENIE3_bidir_gene_pairs.R`: GENIE3 R script
+
+  - `random_bidirectionals_sampled.R`: Shuffling bidirectionals for relative false positive rates
+
 # Linked Repositories
 ## Construction of the MySQL database `DBNascent` 
 
