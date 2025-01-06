@@ -3,7 +3,7 @@ This repository contains notebooks used to generate figures and intermediate fil
 
 ## Structure of repository
 
-- **analysis**: Jupyter notebooks used for analysis and figure generation
+- **notebooks**: Jupyter notebooks used for analysis and figure generation
 
 - **data**: Smaller data used for analysis (See Zenodo for larger datasets 10.5281/zenodo.10223322)
 
